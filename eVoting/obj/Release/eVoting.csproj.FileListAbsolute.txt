@@ -274,5 +274,6 @@ C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\bin\DotNetOpenAuth.OAuth
 C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\bin\DotNetOpenAuth.OAuth.xml
 C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\obj\Release\eVoting.csprojResolveAssemblyReference.cache
 C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\obj\Release\eVoting.dll
 C:\Users\kazeem\Desktop\School Projects\PiusNew\eVoting\obj\Release\eVoting.pdb

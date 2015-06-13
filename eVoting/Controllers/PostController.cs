@@ -1002,7 +1002,7 @@ namespace eVoting.Controllers
             List<Voter> totalVoters = work.VoterRepository.Get().ToList();
 
             ViewBag.NumberVoted = voters.Count();
-            ViewBag.TotalVoter = totalVoters.Count() - 3;
+            ViewBag.TotalVoter = totalVoters.Count() - 4;
 
             return View("Result", theposts);
         }
